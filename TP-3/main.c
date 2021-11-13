@@ -80,6 +80,7 @@ int main()
                 break;
 
             case 10:
+            	ll_deleteLinkedList(listaEmpleados);
                 break;
         }
     }while(option != 10);
